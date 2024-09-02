@@ -1,4 +1,4 @@
 # .gitlab-ci.yml in each individual project
 include:
-  - project: 'ML Engineer/ci-templates'
+  - project: 'ml-engineer/ci-templates'
     file: '/.gitlab-ci.yml'
